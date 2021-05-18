@@ -18,4 +18,4 @@ Here are some of my proyects:
 - LinkedIn: https://linkedin.com/in/martín-caime-552071206
 - Torre.co: https://torre.co/martincaime?utm_source=copy-paste
                     
-Have a nice day!!! 👋
+👋 Have a nice day!!! 👋
