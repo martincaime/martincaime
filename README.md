@@ -16,6 +16,6 @@ Here are some of my proyects:
 
 - Email: martincaime@gmail.com
 - LinkedIn: https://linkedin.com/in/martín-caime-dev
-- Torre.co: https://torre.co/martincaime?utm_source=copy-paste
+- Torre.co: https://torre.co/martincaime
                     
 👋 Have a nice day!!! 👋
