@@ -15,7 +15,7 @@ Here are some of my proyects:
 📫 How to reach me:
 
 - Email: martincaime@gmail.com
-- LinkedIn: https://linkedin.com/in/martín-caime-552071206
+- LinkedIn: https://linkedin.com/in/martín-caime-dev
 - Torre.co: https://torre.co/martincaime?utm_source=copy-paste
                     
 👋 Have a nice day!!! 👋
