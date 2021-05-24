@@ -2,7 +2,7 @@
 
 I'm Martín Caime, a Professional Photographer and a Full Stack Developer who's Front-End developement and UX/UI oriented. I'm seeking exciting new challenges mixing my two passions in IT.
 
-Here are some of my proyects:
+Here are some of my projects:
 
 - WeatherApp: https://github.com/martincaime/WeatherApp
 - PokédexApp: https://github.com/martincaime/PokedexApp
