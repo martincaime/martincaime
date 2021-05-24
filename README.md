@@ -20,3 +20,7 @@ Here are some of my projects:
 - Torre.co: https://torre.co/martincaime
                     
 👋 Have a nice day!!! 👋
+
+### Resume
+
+[CV-martincaime.pdf](https://github.com/martincaime/martincaime/files/6532571/CV-martincaime.pdf)
