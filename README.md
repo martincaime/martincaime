@@ -1,4 +1,4 @@
-![background-martin (1)](https://user-images.githubusercontent.com/77156341/121276129-70f18400-c8a4-11eb-961f-e8075225f635.png)
+![background-martin](https://user-images.githubusercontent.com/77156341/122230632-32edf480-ce90-11eb-8c53-4622f21ff2df.png)
 ### Hi there 👋
 
 I'm Martín Caime, a Professional Photographer and a Full Stack Developer who's Front-End developement and UX/UI oriented. I'm seeking exciting new challenges mixing my two passions in IT.
