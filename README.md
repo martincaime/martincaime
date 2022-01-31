@@ -9,8 +9,6 @@ Here are some of my projects:
 - PokédexApp: https://github.com/martincaime/PokedexApp
 - VideogameApp: https://github.com/martincaime/VideogameApp
 
-🌱 I’m currently learning TypeScript
-
 📫 How to reach me:
 
 - Email: martincaime@gmail.com
